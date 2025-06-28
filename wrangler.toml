@@ -1,0 +1,4 @@
+name = "hqredirect"
+main = "src/index.js"
+compatibility_date = "2024-06-27"
+usage_model = "bundled"
